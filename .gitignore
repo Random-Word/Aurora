@@ -28,13 +28,12 @@ local.properties
 # PDT-specific
 .buildpath
 
-Steverfire.mdb.*
-
+Stevefire.mdb.*
+Stevefire.mdb.2
+Stevefire.mdb.3
+Stevefire.mdb.4
+Stevefire.mdb.5
 *.db
-Steverfire.mdb.2
-Steverfire.mdb.3
-Steverfire.mdb.4
-Steverfire.mdb.5
 
 #################
 ## Visual Studio
